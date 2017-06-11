@@ -38,7 +38,6 @@ function main () {
                 document.getElementById("result").innerText = totalInput;
                 if (! Number(input)) {
                     sign = input;
-                    console.log(sign);
                 }
                 break;
         }
